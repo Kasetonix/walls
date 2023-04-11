@@ -1,2 +1,3 @@
-./defwall
-./altwall
+defwall
+altwall
+*.xcf
